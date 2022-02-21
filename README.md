@@ -8,7 +8,7 @@ Experiments were run with Python 3.7 and these packages:
 * mujoco-py == 2.0.2.9
 
 ## Train SAIL
-The experimental results are available in the paper.
+
  * SAIL with soft weight
  ```
   python sail_main.py --env_id 2/4/5/7 --il_method sail --weight --soft --seed 0
