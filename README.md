@@ -24,7 +24,7 @@ Experiments were run with Python 3.7 and these packages:
 
 For other compared methods, the re-implementation can be found in core/irl.py and trex_main.py for [2IWIL/IC-GAIL](https://github.com/kristery/Imitation-Learning-from-Imperfect-Demonstration) and [D-REX](https://github.com/dsbrown1331/CoRL2019-DREX). 
 
-After saving the policy model during traning, you can plot the optimization trajectories in Figure 2 under the instruction of https://github.com/tomgoldstein/loss-landscape.
+After saving the policy model during training, you can plot the optimization trajectories in Figure 2 under the instruction of https://github.com/tomgoldstein/loss-landscape.
 
 ## Acknowledegement
 The code structure is based on the source code of ICML20 [VILD](https://github.com/voot-t/vild_code). We also use expert data collected by VILD.
