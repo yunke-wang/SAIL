@@ -1,5 +1,5 @@
-# Robust Adersarial Imitation Learning via Adaptively-Selected Demonstrations
-This repository contains the PyTorch code for the paper "Robust Adersarial Imitation Learning via Adaptively-Selected Demonstrations" in IJCAI 2021.
+# Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations
+This repository contains the PyTorch code for the paper "Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations" in IJCAI 2021.
 
 ## Requirements
 Experiments were run with Python 3.7 and these packages:
@@ -28,6 +28,17 @@ After saving the policy model during training, you can plot the optimization tra
 
 ## Acknowledegement
 The code structure is based on the source code of ICML20 [VILD](https://github.com/voot-t/vild_code). We also use expert data collected by VILD.
+
+## Citation
+```
+@inproceedings{wang2021robust,
+  title={Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations},
+  author={Wang, Yunke and Xu, Chang and Du, Bo},
+  booktitle={Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, IJCAI},
+  pages={3155--3161},
+  year={2021}
+}
+```
 
 ## Reference
 [1] Generative adversarial imitation learning. NeurIPS 2016.
