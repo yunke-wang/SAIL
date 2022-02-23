@@ -1,5 +1,5 @@
 # Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations
-[![Conference](https://img.shields.io/badge/IJCAI 2021-Accepted-success)](https://www.ijcai.org/proceedings/2021/0434)
+
 This repository contains the PyTorch code for the paper "Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations" in IJCAI 2021.
 
 ## Requirements
