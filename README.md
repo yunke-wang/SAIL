@@ -1,4 +1,5 @@
 # Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations
+[![Conference](https://img.shields.io/badge/IJCAI 2021-Accepted-success)](https://www.ijcai.org/proceedings/2021/0434)
 This repository contains the PyTorch code for the paper "Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations" in IJCAI 2021.
 
 ## Requirements
@@ -31,12 +32,19 @@ The code structure is based on the source code of ICML20 [VILD](https://github.c
 
 ## Citation
 ```
-@inproceedings{wang2021robust,
-  title={Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations},
-  author={Wang, Yunke and Xu, Chang and Du, Bo},
-  booktitle={Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, IJCAI},
-  pages={3155--3161},
-  year={2021}
+@inproceedings{ijcai2021-0434,
+  title     = {Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations},
+  author    = {Wang, Yunke and Xu, Chang and Du, Bo},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on
+               Artificial Intelligence, {IJCAI-21}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Zhi-Hua Zhou},
+  pages     = {3155--3161},
+  year      = {2021},
+  month     = {8},
+  note      = {Main Track}
+  doi       = {10.24963/ijcai.2021/434},
+  url       = {https://doi.org/10.24963/ijcai.2021/434},
 }
 ```
 
