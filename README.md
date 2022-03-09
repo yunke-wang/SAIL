@@ -23,7 +23,7 @@ Experiments were run with Python 3.7 and these packages:
   python sail_main.py --env_id 2/4/5/7 --il_method gail/airl/vail/infogail --seed 0
  ```
 
-For other compared methods, the re-implementation can be found in core/irl.py and trex_main.py for [2IWIL/IC-GAIL](https://github.com/kristery/Imitation-Learning-from-Imperfect-Demonstration) and [D-REX](https://github.com/dsbrown1331/CoRL2019-DREX). 
+For other compared methods, the re-implementation of [2IWIL/IC-GAIL](https://github.com/kristery/Imitation-Learning-from-Imperfect-Demonstration) and [D-REX](https://github.com/dsbrown1331/CoRL2019-DREX) can be found in core/irl.py and trex_main.py. 
 
 After saving the policy model during training, you can plot the optimization trajectories in Figure 2 under the instruction of https://github.com/tomgoldstein/loss-landscape.
 
