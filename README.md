@@ -3,9 +3,9 @@
 This repository contains the PyTorch code for the paper "Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations" in IJCAI 2021.
 
 ## Requirements
-Experiments were run with Python 3.7 and these packages:
-* pytorch == 1.4.0
-* gym == 0.15.6
+Experiments were run with Python 3.6 and these packages:
+* pytorch == 1.1.0
+* gym == 0.15.7
 * mujoco-py == 2.0.2.9
 
 ## Train SAIL
