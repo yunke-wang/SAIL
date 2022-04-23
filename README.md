@@ -31,7 +31,7 @@ After saving the policy model during training, you can plot the optimization tra
 We thank the authors of [VILD](https://github.com/voot-t/vild_code).Our code structure is based on their source code and we also use expert data collected by VILD.
 
 ## Contact
-For any questions, please feel free to contact [me](yunke.wang@whu.edu.cn).
+For any questions, please feel free to contact me. (Email: yunke.wang@whu.edu.cn)
 
 ## Citation
 ```
