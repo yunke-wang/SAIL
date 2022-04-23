@@ -28,7 +28,10 @@ For other compared methods, the re-implementation of [2IWIL/IC-GAIL](https://git
 After saving the policy model during training, you can plot the optimization trajectories in Figure 2 under the instruction of https://github.com/tomgoldstein/loss-landscape.
 
 ## Acknowledegement
-The code structure is based on the source code of ICML20 [VILD](https://github.com/voot-t/vild_code). We also use expert data collected by VILD.
+We thank the authors of [VILD](https://github.com/voot-t/vild_code).Our code structure is based on their source code and we also use expert data collected by VILD.
+
+## Contact
+For any questions, please feel free to contact [me](yunke.wang@whu.edu.cn).
 
 ## Citation
 ```
