@@ -67,3 +67,5 @@ For any questions, please feel free to contact me. (Email: yunke.wang@whu.edu.cn
 [7] Better-than-demonstrator imitation learning via automatically-ranked demonstrations. CoRL 2020.
 
 [8] Variational Imitation Learning with Diverse-quality Demonstrations. ICML 2020.
+
+[9] Learning to Weight Imperfect Demonstrations. ICML 2021
