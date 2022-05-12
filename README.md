@@ -1,6 +1,6 @@
 # Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations
 
-This repository contains the PyTorch code for the paper "Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations" in IJCAI 2021.
+This repository contains the PyTorch code for the paper "Robust Adversarial Imitation Learning via Adaptively-Selected Demonstrations" in IJCAI 2021. [[Paper]](https://www.ijcai.org/proceedings/2021/434)
 
 ## Requirements
 Experiments were run with Python 3.6 and these packages:
