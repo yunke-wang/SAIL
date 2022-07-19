@@ -64,7 +64,7 @@ def args_parser():
     parser.add_argument('--info_loss_type', default="bce", help='loss type ("linear", "bce", "ace")')
 
     ## Demonstration      
-    parser.add_argument('--c_data', type=int, default=7, help='Use a preset of dataset')
+    parser.add_argument('--c_data', type=int, default=12, help='Use a preset of dataset')
     parser.add_argument('--demo_iter', type=int, default=None, help='index to expert data')
     parser.add_argument('--demo_file_size', type=int, default=10000, help='file name with max number of the expert state-action pairs (100000)')
     parser.add_argument('--demo_split_k', type=int, default=0, help='Split demonstrations into trajectories each with unique k or not? (0)')
