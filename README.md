@@ -68,6 +68,6 @@ For any questions, please feel free to contact me. (Email: yunke.wang@whu.edu.cn
 
 [8] Variational Imitation Learning with Diverse-quality Demonstrations. ICML 2020.
 
-[9] Learning to Weight Imperfect Demonstrations. ICML 2021
+[[9]](https://github.com/yunke-wang/WGAIL) Learning to Weight Imperfect Demonstrations. ICML 2021
 
-[10] Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning. AAAI 2023.
+[[10]](https://github.com/yunke-wang/UID) Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning. AAAI 2023.
